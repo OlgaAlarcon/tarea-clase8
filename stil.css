@@ -1,0 +1,15 @@
+/* Un poquito de CSS */
+
+body {
+    background-color: beige;
+}
+h1, h2, p {
+    text-align: center;
+    margin: 25px;
+}
+h1, h2 {
+    color: blue;
+}
+p {
+    font-size: 45px;
+}
